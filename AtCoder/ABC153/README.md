@@ -4,8 +4,9 @@
 ## 参加範囲
 - A - Serval vs Monster
 - B - Common Raccoon vs Monster
+- C - Fennec vs Monster
 ## 参加言語
-- C#
-- Go
-- Kotlin
-- Python
+- C# : A, B, C
+- Go : A, B, C
+- Kotlin : A, B
+- Python : A, B
