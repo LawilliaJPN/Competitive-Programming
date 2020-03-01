@@ -6,8 +6,7 @@ public class ABC156_B {
         var n = int.Parse(inputs[0]);
         var k = int.Parse(inputs[1]);
 
-        var logKN = Math.Log(n, k);
-        var answer = (logKN == (int)logKN) ? ((int)logKN + 1) : Math.Ceiling(logKN);
+        var answer = Math.Floor(Math.Log(n, k) + 1);
         Console.WriteLine(answer);
     }
 }
