@@ -4,5 +4,6 @@
 ## 参加範囲
 - A - Station and Bus
 - B - Count Balls
+- C - Tax Increase
 ## 参加言語
-- C# : A, B
+- C# : A, B, C
