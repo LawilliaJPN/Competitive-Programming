@@ -1,19 +1,14 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
 
 public class ABC162C {
 	private static void Main(string[] args) {
 		var k = ReadInt();
 		var answer = 0;
 
-		for (int a = 1; a <= k; a++) {
-			for (int b = 1; b <= k; b++) {
-				for (int c = 1; c <= k; c++) {
+		for (int a = 1; a <= k; a++)
+			for (int b = 1; b <= k; b++)
+				for (int c = 1; c <= k; c++)
 					answer += CalcGCD(a, b, c);
-				}
-			}
-		}
 
 		Console.WriteLine(answer);
 	}
