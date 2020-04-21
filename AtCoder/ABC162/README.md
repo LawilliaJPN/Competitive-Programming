@@ -5,5 +5,6 @@
 - A - Lucky 7
 - B - FizzBuzz Sum
 - C - Sum of gcd of Tuples (Easy)
+- D - RGB Triplets
 ## 参加言語
-- C# : A, B, C
+- C# : A, B, C, D
