@@ -4,5 +4,6 @@
 ## 参加範囲
 - A - Circle Pond
 - B - Homework
+- C - management
 ## 参加言語
-- C# : A, B
+- C# : A, B, C
