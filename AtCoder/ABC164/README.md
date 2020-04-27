@@ -6,3 +6,4 @@ https://atcoder.jp/contests/abc164
 - C#
 	- A - Sheep and Wolves
 	- B - Battle
+	- C - gacha
