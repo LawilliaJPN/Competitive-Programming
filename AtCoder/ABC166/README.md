@@ -3,6 +3,8 @@
 https://atcoder.jp/contests/abc166
 
 ## 解答済み
-- C#
-	- A - A?C
-	- B - Trick or Treat
+- A - A?C
+	- C++
+	- C#
+- B - Trick or Treat
+	- C#
