@@ -1,4 +1,4 @@
-# AtCoder Beginner Contest 
+# AtCoder Beginner Contest 166
 ## リンク
 https://atcoder.jp/contests/abc166
 
@@ -7,4 +7,6 @@ https://atcoder.jp/contests/abc166
 	- C++
 	- C#
 - B - Trick or Treat
+	- C#
+- C - Peaks
 	- C#
