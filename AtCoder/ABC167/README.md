@@ -6,3 +6,5 @@ https://atcoder.jp/contests/abc167
 - A - Registration
 	- C++
 	- C#
+- B - Easy Linear Programming
+	- C#
