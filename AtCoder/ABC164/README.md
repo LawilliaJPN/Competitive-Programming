@@ -3,8 +3,12 @@
 https://atcoder.jp/contests/abc164
 
 ## 解答済み
-- C#
-	- A - Sheep and Wolves
-	- B - Battle
-	- C - gacha
-	- D - Multiple of 2019
+- A - Sheep and Wolves
+	- C++ (GCC 9.2.1)
+	- C# (.NET Core 3.1.201)
+- B - Battle
+	- C# (.NET Core 3.1.201)
+- C - gacha
+	- C# (.NET Core 3.1.201)
+- D - Multiple of 2019
+	- C# (.NET Core 3.1.201)
