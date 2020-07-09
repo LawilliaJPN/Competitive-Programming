@@ -5,3 +5,5 @@ https://atcoder.jp/contests/abc169
 ## 解答済み
 - A - Multiplication 1
 	- C++ (GCC 9.2.1)
+- B - Multiplication 2
+	- C++ (GCC 9.2.1)
