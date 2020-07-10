@@ -7,6 +7,7 @@ https://atcoder.jp/contests/abc162
 	- C++ (GCC 9.2.1)
 	- C# (.NET Core 3.1.201)
 - B - FizzBuzz Sum
+	- C++ (GCC 9.2.1)
 	- C# (.NET Core 3.1.201)
 - C - Sum of gcd of Tuples (Easy)
 	- C# (.NET Core 3.1.201)
