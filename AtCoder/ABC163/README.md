@@ -7,6 +7,7 @@ https://atcoder.jp/contests/abc163
 	- C++ (GCC 9.2.1)
 	- C# (.NET Core 3.1.201)
 - B - Homework
+	- C++ (GCC 9.2.1)
 	- C# (.NET Core 3.1.201)
 - C - management
 	- C# (.NET Core 3.1.201)
