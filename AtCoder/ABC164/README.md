@@ -7,6 +7,7 @@ https://atcoder.jp/contests/abc164
 	- C++ (GCC 9.2.1)
 	- C# (.NET Core 3.1.201)
 - B - Battle
+	- C++ (GCC 9.2.1)
 	- C# (.NET Core 3.1.201)
 - C - gacha
 	- C# (.NET Core 3.1.201)
