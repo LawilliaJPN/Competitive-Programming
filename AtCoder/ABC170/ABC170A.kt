@@ -3,7 +3,7 @@ fun main(args: Array<String>) {
     println(x.indexOf(0) + 1);
 }
 
-/* •Ê‰ð
+/* åˆ¥è§£
 fun main(args: Array<String>) {
     when(readLine()!!) {
         "0 2 3 4 5" -> println("1")
