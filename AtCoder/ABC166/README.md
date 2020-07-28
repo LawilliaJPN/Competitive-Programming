@@ -4,9 +4,11 @@ https://atcoder.jp/contests/abc166
 
 ## 解答済み
 - A - A?C
-	- C++
-	- C#
+	- C++ (GCC 9.2.1)
+	- C# (.NET Core 3.1.201)
+	- Kotlin (1.3.71)
 - B - Trick or Treat
-	- C#
+	- C++ (GCC 9.2.1)
+	- C# (.NET Core 3.1.201)
 - C - Peaks
-	- C#
+	- C# (.NET Core 3.1.201)
